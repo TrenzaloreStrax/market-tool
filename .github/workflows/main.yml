@@ -1,4 +1,4 @@
-name: Release
+name: Release Upload
 
 on:
   pull_request: {}
