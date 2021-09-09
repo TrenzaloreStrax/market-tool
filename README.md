@@ -12,7 +12,12 @@ infect your PC with malware, so go ahead and allow that, or don't, I don't care.
 
 # Known Issues:
 
-Go here to see everything that currently sucks about the tool, and to report more problems you see:
+One kind of important one:
+
+Only add your market characters. You don't want every single character you have mucking up the UI and there's
+no way to remove them right now.
+
+Go here to see everything else that currently sucks about the tool, and to report more problems you see:
 
 https://github.com/TrenzaloreStrax/market-tool/issues
 
