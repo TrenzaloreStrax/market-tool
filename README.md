@@ -6,13 +6,12 @@ A tool to help you track items you buy in one station, import to another, and th
 
 Goals:
 
-* Make it possible to manage a large number of sell orders in less time
-* Understand the profit possibilities of items you are about to import
-* Understand when it's profitable to relist an item, and help you avoid relisting when it's not
-* Understand when it's profitable to list an item in your hangar
-* Avoid selling items at a loss
-* Optimized for higher volume, quick turnover, but perhaps lower margin sales.
-
+- Make it possible to manage a large number of sell orders in less time
+- Understand the profit possibilities of items you are about to import
+- Understand when it's profitable to relist an item, and help you avoid relisting when it's not
+- Understand when it's profitable to list an item in your hangar
+- Avoid selling items at a loss
+- Optimized for higher volume, quick turnover, but perhaps lower margin sales.
 
 # How to get it
 
@@ -26,13 +25,7 @@ infect your PC with malware, so go ahead and allow that, or don't, I don't care.
 
 # Known Issues:
 
-This is an important one:
-
-Only add your market characters. You don't want every single character you have mucking up the UI and there's
-no way to remove them right now.
-
-
-Go here to see everything else that currently sucks about the tool, and to report more problems you see:
+Go here to see everything that currently sucks about the tool, and to report more problems you see:
 
 https://github.com/TrenzaloreStrax/market-tool/issues
 
