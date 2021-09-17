@@ -15,13 +15,17 @@ Goals:
 
 # How to get it
 
-Head over to the releases page and grab the latest eve-market-track-win32-x64.zip file.
+For the desktop version, head over to the releases page and grab the latest eve-market-track-win32-x64.zip file.
 
 https://github.com/TrenzaloreStrax/market-tool/releases/
 
 Unzip the file and run eve-market-track.exe inside it. You might have to allow it to run because I
 haven't signed the executable and it'll come up as "unknown publisher". I'm probably not going to
 infect your PC with malware, so go ahead and allow that, or don't, I don't care.
+
+For the web version, head over to:
+
+https://eve-market.shittywebapp.com/
 
 # Known Issues:
 
