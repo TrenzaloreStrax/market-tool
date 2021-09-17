@@ -27,6 +27,10 @@ For the web version, head over to:
 
 https://eve-market.shittywebapp.com/
 
+# Documentation
+
+(Wiki)[https://github.com/TrenzaloreStrax/market-tool/wiki]
+
 # Known Issues:
 
 Go here to see everything that currently sucks about the tool, and to report more problems you see:
